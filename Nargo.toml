@@ -1,0 +1,6 @@
+[package]
+name = "zkcp_check"
+type = "bin"
+authors = [""]
+
+[dependencies]
